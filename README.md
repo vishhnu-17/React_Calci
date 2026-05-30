@@ -63,7 +63,7 @@ function App() {
 export default App;
 ```
 ### Calculator.css
-```
+```css
 * {
   margin: 0;
   padding: 0;
@@ -168,7 +168,7 @@ body {
 }
 ```
 ### Calculator.js
-```
+```js
 import React, { useState } from 'react';
 import './Calculator.css';
 
