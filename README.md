@@ -283,9 +283,10 @@ export default Calculator;
 ```
 
 ## OUTPUT
-<img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/eb8ab89a-08b6-4d3c-8ad3-eb9cb842e7fb" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dbebde52-ef57-4919-9b08-be4734733913" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/eeb2407e-f47f-4dfa-a322-e0d9946b05fe" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1a014470-53db-45b2-928c-79e93e264c57" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1d2b65e5-7208-465c-a51a-4b030d643834" />
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/1ce2fab6-a8a0-4f25-b05b-28f513e8d8d5" />
+
 
 
 ## RESULT
